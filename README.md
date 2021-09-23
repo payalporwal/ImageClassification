@@ -1,2 +1,2 @@
 # ImageClassification
-This is an Image Classification Project using Transfer Learning. I have used the VGG16 model to train the dataset.
+This is an Image Classification Project using Transfer Learning. Pre trained CNN model - VGG16 to train the model for dataset of different types of flowers.
